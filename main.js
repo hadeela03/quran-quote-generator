@@ -18,3 +18,4 @@ btn.addEventListener('clcik', function(){
     var randomQuote = quotes[Math.floor(Math.random() * quotes.length)]
     output.innerHTML = randomQuote;
 })
+
